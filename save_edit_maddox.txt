@@ -1,0 +1,14 @@
+G93 = { #Mykx
+	1052 = {
+		remove_province_modifier = trade_post_modifier
+	}
+	1948 = {
+		add_province_modifier = {
+			name = trade_post_modifier
+			duration = -1
+		}
+		change_culture = ruinscourge_gnoll
+		change_religion = xhazobkult
+	}
+	remove_country_modifier = pirate_republic_shared_loot
+}

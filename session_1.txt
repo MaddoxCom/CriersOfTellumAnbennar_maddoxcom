@@ -276,9 +276,9 @@ G97 = {
 }
 
 B38 = {
-	792 = {
-		change_province_name = Entefar
-		rename_capital = Entefar
+	792 = { #<-- Province ID
+		change_province_name = Entefar #<-- Province Name
+		rename_capital = Entefar #<-- City Name
 	}
 }
 
